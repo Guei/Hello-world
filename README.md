@@ -1,2 +1,2 @@
 # Hello-world
-repository of hello world
+Hi, This is Guei coding 
